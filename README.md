@@ -12,7 +12,7 @@ There will be a video series about this, added to this README at a later point.
 │   ├── Cargo.toml    
 │   └── src
 │       └── main.rs
-│       └── kyu<n>             // Katas with the dificulty n
+│       └── kyu<n>             // Katas with the dificulty n where 8 is the easiest and 1 is the hardest
 │           └── <some-kata-id> // Some kata identifier, as the naming isn't standardized the names can be wild
 ├── LICENSE                    // Simple MIT license
 └── README.md                  // this
