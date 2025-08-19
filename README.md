@@ -21,3 +21,8 @@ There will be a video series about this, added to this README at a later point.
 ## Solved Katas
 
 List of all katas I have solved so far in this repo.
+
+## Testing
+
+I'm using code wars dependencies declared on [this](https://docs.codewars.com/languages/rust/) page.
+The dependencies are outdated at this point but to get a similar experience I'll keep their versions.
